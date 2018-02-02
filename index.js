@@ -1,4 +1,4 @@
-const { OrderedMap } = require("immutable");
+const { OrderedMap } = require('immutable')
 
 let test = OrderedMap({
 	a: 10,
@@ -7,8 +7,8 @@ let test = OrderedMap({
 	d: 40,
 });
 
-console.log(test);
+console.log(test)
 
-test = test.delete('b');
+test = test.delete('b')
 
-console.log(test);
+console.log(test)
