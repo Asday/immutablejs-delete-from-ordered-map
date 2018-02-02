@@ -1,0 +1,14 @@
+{
+  "name": "immutablejs-delete-from-ordered-map",
+  "version": "1.0.0",
+  "description": "Created as an answer to https://stackoverflow.com/questions/48582189/deleting-element-from-orderedmap-and-keeping-its-order",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Barnes",
+  "license": "WTFPL",
+  "dependencies": {
+    "immutable": "^3.8.2"
+  }
+}
